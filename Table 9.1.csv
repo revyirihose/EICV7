@@ -1,0 +1,11 @@
+Table 9. 1: Headcount poverty rate (%)-EICV7 (2023-24),,,,,,
+,Total Poverty rate (%),Std. error (%),95%CI lower bound,95%CI upper bound,CV,Design effect
+Poverty Rate,27.4,0.5,26.4,28.3,1.8,1.9
+Urban,16.7,0.9,14.9,18.5,5.4,2.5
+Rural,31.6,0.6,30.4,32.7,1.9,1.7
+City of Kigali,9.1,1.1,7.0,11.1,11.8,2.8
+Southern,34.7,1.0,32.7,36.7,2.9,1.5
+Western,37.4,1.2,35.1,39.7,3.1,1.9
+Northern,20.2,1.1,18.0,22.3,5.3,1.7
+Eastern,26.8,1.0,24.7,28.8,3.9,2.3
+"Source: NISR,EICV7",,,,,,
